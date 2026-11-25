@@ -1,3 +1,4 @@
+#test mr gsolve
 library(mrgsolve)
 mod <- mcode('test', '
 $PARAM CL = 1, V = 10
